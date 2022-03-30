@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Inflearn/data/seoul_municipalities_geo_simple.json
+Inflearn/data/상가업소정보.csv
+Inflearn/data/전국 평균 분양가격(2013년 9월부터 2015년 8월까지).csv
+Inflearn/data/전국도시공원표준데이터.csv
+Inflearn/data/주택도시보증공사_전국 평균 분양가격(2019년 12월).csv
