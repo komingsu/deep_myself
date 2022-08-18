@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "*.obj": "c"
-    },
-    "editor.largeFileOptimizations": false
-}

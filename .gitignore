@@ -134,3 +134,6 @@ Inflearn/data/전국도시공원표준데이터.csv
 Inflearn/data/주택도시보증공사_전국 평균 분양가격(2019년 12월).csv
 *.csv
 *.zip
+*.h5
+*.pth
+*.p
