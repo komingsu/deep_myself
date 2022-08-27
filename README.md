@@ -1,8 +1,20 @@
-# Prac_Project
+# Talmo-TT
 
-Projects for study deep_learning
+study deep_learning alone
 
-1. Udemy
+## Book
+* 머신러닝, 딥러닝 문제해결 전략
+* 혼자 공부하는 머신러닝, 딥러닝
+* 케라스 창시가에게 배우는 딥러닝
+* 핸즈온 머신러닝
+
+## Deeplearning practice
+* 딥러닝의 과제별 접근 방법을 공부하였습니다
+* [참고자료](https://keras.io/examples/)
+
+## Online_lecture
+* Udemy - 
+<!-- 1. Udemy
   * Avocado Prices Prediction - Future Price Prediction
   * CiFAR-10 Images Classification - Multiclass classification
   * Movie Recommender System - 
@@ -22,4 +34,4 @@ Projects for study deep_learning
   * OCR
   * FordEngine
   * CNC
-  * Molding
+  * Molding -->
