@@ -1,4 +1,4 @@
-What i learned with Book
+What i learned with Books
 
 1. 머신러닝·딥러닝 문제해결 전략 ( folder : Deep_Learning_Problem_Solving_Strategies )
     <br>
