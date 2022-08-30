@@ -10,7 +10,6 @@ Studied deep_learning alone, and i got talmo
 
 ## `2. Deeplearning practice`
 * 케라스 예제를 통해 딥러닝의 과제별 접근 방법을 공부하였습니다
-* [참고자료](https://keras.io/examples/)
 
 ## `3. Online_lecture`
 ### 3_1. Udemy
