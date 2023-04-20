@@ -1,4 +1,4 @@
-# Talmo-TT
+# deep_myself
 
 Studied deep_learning alone, and i got talmo
 
